@@ -1,6 +1,6 @@
 sketch + search = skrch
 ---
-skrch was an idea I had in mid-2010 (in a dream! true story). It was supposed to be an image search-engine that could search by:
+skrch was an idea I had in mid-2011 (in a dream! true story). It was supposed to be an image search-engine that could search by:
 
 1. Reverse-image lookup
 2. Sketching
